@@ -1,0 +1,9 @@
+<resources>
+    <string name="kalkulato2">CalculatorApp</string>
+    <string-array name="operators_array">
+        <item>Tambah</item>
+        <item>Kurang</item>
+        <item>Kali</item>
+        <item>Bagi</item>
+    </string-array>
+</resources>
